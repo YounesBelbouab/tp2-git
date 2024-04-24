@@ -14,8 +14,25 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Dans les brumes de l'adversité, Léopold, éclat de bravoure,
+Navigue avec courage, épris d'une autre lueur, d'une autre couleur.
+Ses bras, jadis voiles sur les mers de la vie,
+Sont désormais souvenirs, écho d'une lutte infinie.
+
+Mais en lui, un feu sacré persiste, un chant d'espoir,
+Qui transcende les limites, défie le noir.
+Car Léopold, en son cœur, porte la force des Titans,
+Dans chaque sourire, dans chaque pas, il construit son destin.
+
+Bras ou non, il danse avec les étoiles,
+Brave les tempêtes, embrasse les voiles.
+Pour lui, la vie est un océan à naviguer,
+Et chaque défi est un délice à embrasser.
+
+Dans ce ballet de vie, Léopold, ton courage éblouit,
+Ta force intérieure, un phare qui jamais ne faiblit.
+Que chaque aurore te trouve fier et debout,
+Dans ce poème, dans ce chant, résonne ton éclat, toujours.
       </>
     ),
   },
