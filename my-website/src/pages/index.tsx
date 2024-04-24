@@ -4,7 +4,6 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import Heading from '@theme/Heading';
-import MyReactPage from './my-react-page';
 
 import styles from './index.module.css';
 
@@ -20,14 +19,20 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/intro">
+            to="/docs/intro" >
             Docusaurus Tutorial - 5min ⏱️
           </Link>
           {/* Bouton ajouté pour naviguer vers MyReactPage */}
           <Link
             className="button button--secondary button--lg"
             to="/my-react-page">
-            Visit My React Page
+            Voir lesSkeuskeu
+          </Link>
+          {/* Nouveau bouton pour la page Big Photo Page */}
+          <Link
+            className="button button--secondary button--lg"
+            to="/big-photo-page">
+            Ne Pas Cliquer
           </Link>
         </div>
       </div>
