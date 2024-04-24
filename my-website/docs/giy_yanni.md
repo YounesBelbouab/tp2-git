@@ -561,3 +561,6 @@ Notons que Git a bien effectue un Fast forward car aucun conflit n'a ete detecte
 De maniere plus generale, `git pull` combine un `git fetch` suivi d'un `git merge` exactement comme Bob vient de le faire manuellement.
 
 Git `pull` est une maniere plus simple de mettre a jour sa copie locale avec les changements venant d'`origin`.
+
+
+![Alt text](younesmap.jpg)
