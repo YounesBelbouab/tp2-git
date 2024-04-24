@@ -20,4 +20,9 @@
   display: flex;
   align-items: center;
   justify-content: center;
+
+}
+
+.button button--secondary button--lg{
+  margin-right: 30px;
 }
